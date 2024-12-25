@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "dont noise - zombiepig 30per : Set zombie piglin sounds to 30%",
+    "name": "dont noise - zombiepig 30per",
+    "uuid": "7a41a794-0c5d-4e7d-b147-230b44194bc8",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "dont noise - zombiepig 30per : Set zombie piglin sounds to 30%",
+      "type": "resources",
+      "uuid": "29f59011-fd4a-4056-acd0-9db1cf196491",
+      "version": [0, 0, 1]
+    }
+  ]
+}

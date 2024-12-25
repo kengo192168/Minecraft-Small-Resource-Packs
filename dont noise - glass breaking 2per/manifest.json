@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "dont noise - glass breaking 2per : Set glass breaking sound to 2%",
+    "name": "dont noise - glass breaking 2per",
+    "uuid": "1409f360-9b00-11ef-ab79-91b1263e38f0",
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "dont noise - glass breaking 2per : Set glass breaking sound to 2%",
+      "type": "resources",
+      "uuid": "140a1a70-9b00-11ef-ad86-05ed838adaab",
+      "version": [0, 0, 1]
+    }
+  ]
+}

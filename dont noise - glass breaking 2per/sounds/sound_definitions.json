@@ -1,0 +1,12 @@
+{
+  "format_version": "1.20.20",
+  "sound_definitions": {
+    "random.glass": {
+      "sounds": [
+        { "name": "sounds/random/glass1", "volume": 0.02 },
+        { "name": "sounds/random/glass2", "volume": 0.02 },
+        { "name": "sounds/random/glass3", "volume": 0.02 }
+      ]
+    }
+  }
+}
